@@ -1,0 +1,20 @@
+
+
+* body {
+    background-color: #144cac;
+}
+
+.hero {
+    background-image: url('https://via.placeholder.com/1200x400');
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    background-color: rgba(0, 0, 0, 0.653);
+    display: inline-block;
+    padding: 10px 20px;
+}
